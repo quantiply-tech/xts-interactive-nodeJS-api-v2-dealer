@@ -16,7 +16,7 @@ Please request for apikeys with Symphony Fintech developer support team to start
 ## Installation
 
 ```bash
-npm install xts-interactive-api
+npm install xts-interactive-api-dealer
 ```
 
 ## Usage
